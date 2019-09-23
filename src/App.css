@@ -13,7 +13,6 @@
   background: #545454;
   font-size: 17px;
   border: none;
-  cursor: pointer;
   border-radius: 20px;
   border: 3px solid #000000;
   padding: 5px 12px 7px 11px;
@@ -73,7 +72,7 @@
   /* For tablets: */
   .div1{
     width: 54%;
-    margin-left: 8%;
+    margin-left: 2%;
   }
   
   .div2{
@@ -103,7 +102,7 @@
   /* For tablets: */
   .div1{
     width: 54%;
-    margin-left: 8%;
+    margin-left: 2%;
   }
   
   .div2{
@@ -138,6 +137,7 @@
   border: none;
   font-size: 58px;
   width: 35%;
+  cursor: pointer;
   border-radius: 240%;
 }
 

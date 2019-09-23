@@ -60,10 +60,6 @@ function App() {
           
           </button>
         </div>
-        
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <div id="filtered" className="filtered"><div className="Ap"><h1>Person Data</h1><div id="card" className="card"></div></div></div>
         
       </header>
